@@ -1,21 +1,19 @@
 ---
 abstract:
-title: Global martingale solutions for quasilinear SPDEs via the boundedness-by-entropy method
+title: On the equivalence of pathwise mild and weak solutions for quasilinear SPDEs
 #author_notes:
 #- Equal contribution
 #- Equal contribution
 authors:
 - Gaurav Dhariwal 
 - admin
-- Ansgar Jüngel
-- Christian Kuehn
 - Alexandra Neamtu
 date: "2021-09-01T00:00:00Z"
 doi: ""
 featured: false
 image:
 projects: []
-publication: '*Annales de lInstitut Henri Poincare, Probabilites et Statistiques, 57*(1)'
+publication: '*Stochastic Analysis and Applications, 39*(5)'
 publication_short: ""
 publication_types:
 - "2"

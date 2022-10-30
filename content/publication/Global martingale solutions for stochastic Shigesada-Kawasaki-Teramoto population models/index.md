@@ -1,25 +1,23 @@
 ---
 abstract:
-title: Global martingale solutions for quasilinear SPDEs via the boundedness-by-entropy method
+title: Global martingale solutions for stochastic Shigesada-Kawasaki-Teramoto population models
 #author_notes:
 #- Equal contribution
 #- Equal contribution
 authors:
-- Gaurav Dhariwal 
+- Marcel Braukhoff
 - admin
 - Ansgar Jüngel
-- Christian Kuehn
-- Alexandra Neamtu
-date: "2021-09-01T00:00:00Z"
+date: "2022-01-01T00:00:00Z"
 doi: ""
 featured: false
 image:
 projects: []
-publication: '*Annales de lInstitut Henri Poincare, Probabilites et Statistiques, 57*(1)'
+publication: '*arXiv:2202.12602*'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2021"
+publishDate: "2022"
 #slides: example
 #summary: 
 #tags:
