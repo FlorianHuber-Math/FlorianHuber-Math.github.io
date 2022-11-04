@@ -1,5 +1,5 @@
 ---
-bio: My research interests include SPDEs, Rough Paths and Stochastic Analysis
+bio: My research interests include SPDEs, Interacting Particle Systems, Rough Paths and Stochastic Analysis
   matter.
 education:
   courses:
