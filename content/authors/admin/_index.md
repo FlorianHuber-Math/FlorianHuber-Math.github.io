@@ -52,7 +52,7 @@ social:
   link: https://github.com/FlorianHuber-Math
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/florian-huber-92534a14/
 superuser: true
 title: Florian Huber
 ---
