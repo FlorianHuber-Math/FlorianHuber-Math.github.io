@@ -12,7 +12,7 @@ education:
   - course: BSc in  Technical Mathematics
     institution: TU Vienna
     year: 2011-2016
-  - course: BA in  Business Administration
+  - course: BA in  Global Business and International Relations
     institution: International University Vienna / Graduate School of     Business Studies Belgrade
     year: 2009-2011
   - course: Exchange
@@ -60,4 +60,6 @@ title: Florian Huber
 I am a post-doc researcher in the group of Christa Cuchiero. My research is based on the fields of SPDEs and interacting particle systems.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV.pdf" "newtab" >}} CV {{< /staticref >}}.
+
+{{< icon name="download" pack="fas" >}}  {{< staticref "uploads/Thesis.pdf" "newtab" >}}PhD thesis on Stochastic Cross-Diffusion systems

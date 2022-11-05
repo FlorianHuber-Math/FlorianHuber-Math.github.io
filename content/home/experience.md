@@ -7,7 +7,7 @@ widget: experience
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 60
 
 title: Experience
 subtitle:
@@ -22,28 +22,32 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Research Assistant Post-doc(FWF)/University Lecturer
+    company: University of Vienna
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    company_logo: ''
+    location: Vienna,Austria
+    date_start: '2022-05-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+    description:
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Research Assistant Prae-doc
+    company: University of Vienna
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: ''
+    location: Vienna,Austria
+    date_start: '2021-05-01'
+    date_end: '2022-05-31'
+    description:
+
+  - title: Research Assistant Prae-doc
+    company: TU Vienna
+    company_url: ''
+    company_logo: ''
+    location: Vienna,Austria
+    date_start: '2021-05-01'
+    date_end: '2022-05-31'
+    description:
 
 design:
   columns: '2'

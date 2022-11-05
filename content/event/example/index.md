@@ -27,7 +27,7 @@ links:
 location: Wowchemy HQ
 projects:
 - example
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: 
 slides: example
 summary: An example talk using Wowchemy's Markdown slides feature.
 tags: []
